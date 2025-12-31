@@ -1,2 +1,2 @@
 # Learning
-Author- Sarthak Gupta
+Author- Sarthak
